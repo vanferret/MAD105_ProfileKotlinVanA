@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProfileKotlin</string>
+    <string name="txtName">Van</string>
+    <string name="txtBtnProfile">View Profile</string>
+    <string name="txtProfileInformation">Name: Van Anderson \nI am 37 Years old \nI have one daughter\nI love coffee</string>
+</resources>
